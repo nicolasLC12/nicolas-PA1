@@ -1,0 +1,213 @@
+
+body 
+{
+    background-image: url(imagenes/fondo.jpg);
+}
+#cabeza
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px auto;
+    padding: 20px;
+    width: 80%;
+    border-bottom: solid 1px black;
+}
+h1
+{
+    background-color: white;
+    align-self: center;
+    color: #00B5F1;
+    text-shadow: 10px 10px 25px black;
+    font-size: 40px;
+}
+
+#cabeza img
+{
+    border-radius: 50%;
+    margin: 10px;
+    width: 20%;
+}
+.autor
+{
+    font-size: 15px;
+    background-color: white;
+    padding: 3px;
+    margin-left: auto;
+    width: 25%; 
+    
+}
+.autor p
+{
+    text-align: center;
+}
+#descripcion
+{
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    
+}
+#descriptor p
+{
+    text-align: justify;
+    font-size: 25px;
+}
+
+#cuerpoPrincipal
+{
+    width: 80%;
+    margin: 10px auto;
+    padding: 20px;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    border: solid 3px red;
+}
+.definicion
+{
+    width: 30%;
+    margin: 10px auto;
+    border: solid 1px red;
+    padding: 8px;
+    background-color: white;
+}
+.uno
+{
+    border: solid 1px red;
+    padding: 8px;
+    margin: 10px;
+}
+.dos
+{
+    border: solid 1px red;
+    padding: 8px;
+    margin: 10px;
+}
+.tres
+{
+    border: solid 1px red;
+    padding: 8px;
+    margin: 10px;
+ 
+}
+h3
+{
+    text-align: center;
+    color: white;
+    padding: 20px;
+    display: block;
+    align-self: flex-start;
+}
+#html
+{
+    background-color: #e34c26;
+}
+#css
+{
+    background-color:  #2965f1;
+}
+#javaScript
+{
+    background-color: #348003;
+}
+p
+{
+    text-align: justify;
+}
+.definicion img
+{
+    width: 30%;
+    display: block;
+    padding: 30px;
+    margin: 10px auto;
+}
+.subtitulo2
+{
+    width: 80%;
+    margin: 20px auto;
+}
+
+#cuerpoSecundario
+{
+    width: 80%;
+    margin: 10px auto;
+    padding: 20px;
+    height: 450px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    border: solid 3px red;
+}
+h2
+{
+    width: 90%;
+    text-decoration: underline;
+}
+.analogia
+{
+    width: 30%;
+    margin: 10px auto;
+    border: solid 1px red;
+    padding: 8px;
+    background-color: white;
+}
+.analogia h3
+{
+    font-size: 30px;
+}
+.html
+{
+    padding: 10px;
+    margin: 12px auto;
+}
+.css
+{
+    padding: 10px;
+    margin: 12px auto;
+}
+.js
+{
+    padding: 10px;
+    margin: 12px auto;
+}
+.final
+{
+    width: 80%;
+    margin: 15px auto;
+    padding: 20px;
+    border-bottom: solid black 1px;
+}
+
+.imagen img
+{
+    display: block;
+    align-self: center;
+    margin: 10px auto;
+    width: 40%;
+    box-shadow: 10px 10px 30px black;
+}
+
+.titulof
+{
+    width: 80%;
+    margin: 20px auto;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.frasefinal
+{
+    margin: auto;
+    background-color: white;
+    box-shadow: 10px 10px 30px black;
+    width: 50%;
+    font-size: 18px;
+    align-self: center;
+    padding: 20px;
+}
+
+.frasefinal p
+{
+    text-align: center;
+}
